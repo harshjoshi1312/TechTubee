@@ -11,3 +11,7 @@ file - folder structure
 in json type:module
 add nodemon as dev dependency
 change in script test to dev
+make folders structure
+
+# step 3
+prettier for similar work
