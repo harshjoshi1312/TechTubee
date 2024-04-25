@@ -19,3 +19,5 @@ prettier for similar work
 # step 4
 connection of dbs 
 env config(entry point index.js)
+# step 5 
+user and models with hooks and jwt
