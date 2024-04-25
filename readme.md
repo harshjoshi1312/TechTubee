@@ -5,7 +5,7 @@ npm init
 add git repo push first command
 
 
-#step2 
+# step2 
 file - folder structure
 .env and node gitignore generator
 in json type:module
