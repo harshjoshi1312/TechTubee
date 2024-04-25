@@ -15,3 +15,7 @@ make folders structure
 
 # step 3
 prettier for similar work
+
+# step 4
+connection of dbs 
+env config(entry point index.js)
