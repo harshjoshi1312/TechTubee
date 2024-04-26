@@ -2,12 +2,12 @@
 // and pass as argument
 
 const asyncHandler = (requestHandler) => {
-  (req, res, next) => {
+ return (req, res, next) => {
     Promise.resolve(requestHandler(req, res, next)).catch((err) => next(err));
   };
 };
 
-export { asyncHandler };
+export { asyncHandler }
 
 // this can be don by the higorder function menas
 // pass functiona as argumrnt () => () =>{}
