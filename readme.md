@@ -21,3 +21,13 @@ connection of dbs
 env config(entry point index.js)
 # step 5 
 user and models with hooks and jwt
+make utils for common handler req res and next
+
+# step 6 
+make models for the mongodb storage
+
+best npm packages 
+npm 
+aggregatepaginatev2  || bcrypt(hash password) || jwt token
+
+there are  hooks also in npm called(pre-hook)

@@ -32,3 +32,4 @@ app.use(express.static("public"));
 app.use(cookieParser());
 
 export { app };
+// ACCES TOKENS ARE STORE IN DB WHILE REFRSH TOKEN CANT
